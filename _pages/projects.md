@@ -1,12 +1,14 @@
 ---
+
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My ongoing research in natural language processing, machine learning, and computational linguistics.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research]
 horizontal: false
+
 ---
 
 <!-- pages/projects.md -->
