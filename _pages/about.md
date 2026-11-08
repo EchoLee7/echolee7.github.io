@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I'm **Yike (Echo) Li**, an undergraduate at [Swarthmore College](https://www.swarthmore.edu/) studying **Mathematics and Linguistics**.
+Hi! I'm **Yike (Echo) Li**, an undergraduate at [Swarthmore College](https://www.swarthmore.edu/) studying **Mathematics, CS and Linguistics**.
 
 My interests lie at the intersection of **Natural Language Processing (NLP), Machine Learning, and Computational Linguistics**, particularly how computational models learn, represent, and reason about language.
 
@@ -28,6 +28,6 @@ My current work involves investigating how large language models discover genera
 
 More broadly, I'm interested in developing language technologies that combine **linguistic insight with computational approaches**.
 
-Outside of academics, I am a fan of J-Pop and K-pop.
+Outside of academics, I am a fan of [J-Pop](https://www.youtube.com/watch?v=OntscPi4q4A&list=RDOntscPi4q4A&start_radio=1) and [K-pop](https://www.youtube.com/watch?v=roHWN9fL2SM). 
 
-I also proudly did service learning in Japan.
+I also proudly did [service learning](https://www.instagram.com%2Fp%2FDa2IdPWjyRR%2F&ved=0CAEQnM4VahcKEwiglNX8sveXAxUAAAAAHQAAAAAQDw&opi=89978449) in Japan.
