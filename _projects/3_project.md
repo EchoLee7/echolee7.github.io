@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Turkish–English Hybrid Machine Translation
