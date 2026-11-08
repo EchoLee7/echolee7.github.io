@@ -10,8 +10,8 @@ profile:
   image_circular: false
   more_info:
 
-selected_papers: false
-social: false
+selected_papers: true
+social: true
 
 announcements:
   enabled: false
