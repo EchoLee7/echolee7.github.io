@@ -30,4 +30,4 @@ More broadly, I'm interested in developing language technologies that combine **
 
 Outside of academics, I am a fan of [J-Pop](https://www.youtube.com/watch?v=OntscPi4q4A&list=RDOntscPi4q4A&start_radio=1) and [K-pop](https://www.youtube.com/watch?v=roHWN9fL2SM). 
 
-I also proudly did [service learning](https://www.instagram.com%2Fp%2FDa2IdPWjyRR%2F&ved=0CAEQnM4VahcKEwiglNX8sveXAxUAAAAAHQAAAAAQDw&opi=89978449) in Japan.
+I also proudly did [service learning](https://www.instagram.com/p/Da2IdPWjyRR/) in Japan.
